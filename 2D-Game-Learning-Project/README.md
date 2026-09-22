@@ -45,3 +45,5 @@ https://youtu.be/_GbK4ppH6X4
 ## Note
 
 This is a learning project based on the tutorial above. The purpose of the project was to understand the concepts and techniques used in basic 2D game development.
+
+[View Project →] https://github.com/Crescentt1/2D-Game-Learning-Project.git
